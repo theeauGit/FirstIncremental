@@ -1,4 +1,4 @@
-# FirstIncremental
+# PenFactory 
 Petit projet personnel pour créer un jeu incrémental en JavaScript et explorer les concepts du développement front-end.
 
 ## Objectif du projet
